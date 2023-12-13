@@ -1150,3 +1150,4 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.12.13-19.29.21:897][ 37]LogAssetRegistry: Display: Asset registry cache written as 18.4 MiB to ../../../../Users/W214990980/Desktop/Game1306/Game_1306_Final/MyProject/Intermediate/CachedAssetRegistry_*.bin
 [2023.12.13-19.29.22:632][ 69]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, EditorSkySphere
 [2023.12.13-19.29.44:994][ 46]LogSlate: Took 0.000701 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.13-19.31.09:652][421]LogDerivedDataCache: C:/Users/W214990980/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.062 and deleted 0 files with total size 0 MiB and 288 empty folders. Scanned 387 files in 996 folders with total size 3 MiB.
