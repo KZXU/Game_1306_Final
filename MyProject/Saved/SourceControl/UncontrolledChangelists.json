@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/W214990980/Desktop/Game1306/Game_1306_Final/MyProject/Content/LevelPrototyping/Materials/M_Solid.uasset",
+				"C:/Users/W214990980/Desktop/Game1306/Game_1306_Final/MyProject/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset"
+			]
+		}
+	]
+}
