@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/W214990980/Desktop/Game1306/Game_1306_Final/MyProject/Content/LevelPrototyping/Materials/M_Solid.uasset",
-				"C:/Users/W214990980/Desktop/Game1306/Game_1306_Final/MyProject/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset"
+				"C:/Users/W214990980/Desktop/Game1306/Game_1306_Final/MyProject/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/Users/W214990980/Desktop/Game1306/Game_1306_Final/MyProject/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
+				"C:/Users/W214990980/Desktop/Game1306/Game_1306_Final/MyProject/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset",
+				"C:/Users/W214990980/Desktop/Game1306/Game_1306_Final/MyProject/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset"
 			]
 		}
 	]
