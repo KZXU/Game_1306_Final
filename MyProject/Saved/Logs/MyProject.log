@@ -2267,3 +2267,10 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.12.13-20.38.52:703][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2023.12.13-20.38.52:711][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
 [2023.12.13-20.38.52:796][599]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.12.13-20.39.58:436][792]Cmd: DELETE
+[2023.12.13-20.39.58:436][792]Cmd: ACTOR DELETE
+[2023.12.13-20.39.58:438][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.13-20.39.58:438][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.13-20.39.58:439][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.13-20.39.58:443][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.12.13-20.39.58:444][792]LogEditorActor: Deleted 3 Actors (0.009 secs)
